@@ -1,4 +1,4 @@
-Simple Image Converter - Version Française 1.0
+Simple Image Converter - Version Française 1.1
 
 Copyright © Gaëtan Sencie 2025
 Tous droits réservés.
