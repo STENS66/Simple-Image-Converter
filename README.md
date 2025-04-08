@@ -1,4 +1,4 @@
-# Simple Image Converter - Version française 1.0
+# Simple Image Converter - Version française 1.1
 
 # Copyright © Gaëtan Sencie 2025
 # Tous droits réservés.
@@ -10,9 +10,9 @@
 ### Fonctionnalités
 
 - L'interface utilisateur est conviviale et facile à utiliser, permettant à tout utilisateur de convertir ses images sans effort.
-- Prend en charge plusieurs formats de sortie, y compris PDF, PNG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
-- Permet également la conversion des fichiers .svg vers les formats PDF, PNG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
-- L'application ne prend pas en charge la conversion des fichiers PDF, PNG, JPEG, WEBP, ICO, BMP, GIF, et TIFF vers le format .svg.
+- Prend en charge plusieurs formats de sortie, y compris PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
+- Permet également la conversion des fichiers .svg vers les formats PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
+- L'application ne prend pas en charge la conversion des fichiers PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF vers le format .svg.
 - Aucun droit administrateur requis, ce qui rend l'application plus sûre à utiliser sur n'importe quel ordinateur.
 - Toutes les opérations sont effectuées localement, sans nécessiter de connexion internet, garantissant ainsi la confidentialité et la sécurité des données de l'utilisateur.
 - La conversion est rapide et efficace, évitant le besoin de télécharger et téléverser des images sur des sites externes.
