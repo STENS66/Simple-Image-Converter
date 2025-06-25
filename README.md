@@ -10,16 +10,16 @@
 ### Fonctionnalités
 
 - L'interface utilisateur est conviviale et facile à utiliser, permettant à tout utilisateur de convertir ses images sans effort.
-- Prend en charge plusieurs formats de sortie, y compris PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
-- Permet également la conversion des fichiers SVG vers les formats PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
-- L'application ne prend pas en charge la conversion des fichiers PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF vers le format SVG.
-- Prise en charge de la conversion des fichiers XPS et OXPS vers les formats PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF. Pour les formats GIF et TIFF, un seul fichier multi-pages est généré. Pour les autres formats d'image, un fichier est créé par page du document original.
+- Prend en charge plusieurs formats de sortie, y compris **PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF**.
+- Permet également la conversion des fichiers **SVG** vers les formats **PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF**.
+- L'application ne prend pas en charge la conversion des fichiers **PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF** vers le format **SVG**.
+- Prise en charge de la conversion des fichiers **XPS** et **OXPS** vers les formats **PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF**. Pour les formats **GIF** et **TIFF**, un seul fichier multi-pages est généré. Pour les autres formats d'image, un fichier est créé par page du document original.
 - **Options de compression PDF** : Lors de la conversion au format PDF, vous pouvez choisir parmi différents niveaux de compression (Qualité Maximale, Légère, Moyenne, Forte) pour optimiser la taille de vos documents.
 - **Options de qualité d'image (JPG, JPEG, WEBP)** : Lors de la conversion vers ces formats, vous pouvez sélectionner un niveau de qualité (Qualité Maximale, Élevée, Moyenne, Faible) pour ajuster le taux de compression et la taille des fichiers de sortie.
 - **Aucun droit administrateur requis**, ce qui rend l'application plus sûre à utiliser sur n'importe quel ordinateur.
 - **Toutes les opérations sont effectuées localement**, sans nécessiter de connexion internet, garantissant ainsi la confidentialité et la sécurité des données de l'utilisateur.
 - La conversion est rapide et efficace, évitant le besoin de télécharger et téléverser des images sur des sites externes.
-- Plusieurs fichiers peuvent être convertis en même temps.
+- **Plusieurs fichiers peuvent être convertis en même temps**.
 - **Sécurité des dossiers** : L'application vous avertit si le dossier d'entrée et de sortie sont identiques, vous permettant de choisir de continuer ou d'annuler pour éviter l'écrasement de fichiers originaux.
 - **Journalisation détaillée** : Un fichier app.log est créé et écrasé à chaque exécution de l'application, enregistrant les opérations et les éventuelles erreurs. Ce journal peut être consulté à tout moment via un bouton dédié dans l'interface graphique et est essentiel pour le diagnostic en cas de problème. Pour une correction plus rapide des bugs ou problèmes éventuels, ce fichier peut être envoyé au support à l'adresse app.sencie@gmail.com.
 
