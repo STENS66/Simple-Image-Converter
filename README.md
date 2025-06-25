@@ -11,8 +11,8 @@
 
 - L'interface utilisateur est conviviale et facile à utiliser, permettant à tout utilisateur de convertir ses images sans effort.
 - Prend en charge plusieurs formats de sortie, y compris PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
-- Permet également la conversion des fichiers .svg vers les formats PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
-- L'application ne prend pas en charge la conversion des fichiers PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF vers le format .svg.
+- Permet également la conversion des fichiers .SVG vers les formats PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
+- L'application ne prend pas en charge la conversion des fichiers PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF vers le format .SVG.
 - Prise en charge de la conversion des fichiers XPS et OXPS vers les formats PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF. Pour les formats GIF et TIFF, un seul fichier multi-pages est généré. Pour les autres formats d'image, un fichier est créé par page du document original.
 - **Options de compression PDF** : Lors de la conversion au format PDF, vous pouvez choisir parmi différents niveaux de compression (Qualité Maximale, Légère, Moyenne, Forte) pour optimiser la taille de vos documents.
 - **Options de qualité d'image (JPG, JPEG, WEBP)** : Lors de la conversion vers ces formats, vous pouvez sélectionner un niveau de qualité (Qualité Maximale, Élevée, Moyenne, Faible) pour ajuster le taux de compression et la taille des fichiers de sortie.
