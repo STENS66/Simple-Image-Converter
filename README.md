@@ -5,7 +5,7 @@
 
 ## Description
 
-"Simple Image Converter" est une application simple et sécurisée qui permet de convertir vos fichiers images et documents rapidement et efficacement. Elle fonctionne uniquement en local sur l'ordinateur de l'utilisateur, garantissant ainsi une sécurité maximale et une confidentialité absolue de vos données.
+**"Simple Image Converter"** est une application simple et sécurisée qui permet de convertir vos fichiers images et documents rapidement et efficacement. Elle fonctionne uniquement en local sur l'ordinateur de l'utilisateur, garantissant ainsi une sécurité maximale et une confidentialité absolue de vos données.
 
 ### Fonctionnalités
 
