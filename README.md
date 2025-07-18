@@ -25,12 +25,12 @@
 
 ### Utilisation
 
-Pour convertir des images avec "Simple Image Converter" :
+Pour convertir des images avec "**Simple Image Converter**" :
 
 1. Sélectionnez un dossier de départ contenant les images et documents à convertir. (Assurez-vous que seuls des fichiers pris en charge sont présents dans ce dossier pour une conversion optimale).
 2. Sélectionnez un dossier de sortie où les fichiers convertis seront enregistrés.
 3. Choisissez le format de sortie souhaité parmi les options disponibles.
-4. Si vous convertissez au format PDF, JPG, JPEG ou WEBP, sélectionnez le niveau de compression désiré.
+4. Si vous convertissez au format **PDF**, **JPG**, **JPEG** ou **WEBP**, sélectionnez le niveau de compression désiré.
 5. Cliquez sur le bouton "Convertir les images" pour lancer la conversion.
 6. Les fichiers convertis seront enregistrés dans le dossier de sortie spécifié.
 7. En cas de problème, vous pouvez cliquer sur "Afficher le fichier de log" dans la section "Développeur" et nous envoyer ce fichier pour faciliter le support technique.
