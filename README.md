@@ -23,6 +23,10 @@
 - **Sécurité des dossiers** : L'application vous avertit si le dossier d'entrée et de sortie sont identiques, vous permettant de choisir de continuer ou d'annuler pour éviter l'écrasement de fichiers originaux.
 - **Journalisation détaillée** : Un fichier app.log est créé et écrasé à chaque exécution de l'application, enregistrant les opérations et les éventuelles erreurs. Ce journal peut être consulté à tout moment via un bouton dédié dans l'interface graphique et est essentiel pour le diagnostic en cas de problème. Pour une correction plus rapide des bugs ou problèmes éventuels, ce fichier peut être envoyé au support à l'adresse app.sencie@gmail.com.
 
+## Prévisualisation
+
+![Capture d'écran du jeu Python-Blackjack](https://github.com/STENS66/Simple-Image-Converter/blob/main/images/window.png?raw=true)
+
 ### Utilisation
 
 Pour convertir des images avec "**Simple Image Converter**" :
@@ -45,17 +49,15 @@ Pour convertir des images avec "**Simple Image Converter**" :
 
 ## Installation
 
-1. Téléchargez le fichier exécutable.
+1. Téléchargez le fichier exécutable de la dernière version ici: https://github.com/STENS66/Simple-Image-Converter/releases
 2. Double-cliquez sur le fichier téléchargé pour lancer l'installation.
 3. Suivez les instructions à l'écran pour compléter l'installation.
 
-Vous pouvez télécharger la dernière version de l'application soit dans le Microsoft store ici: https://apps.microsoft.com/detail/9P5PSJTN8SWN?hl=fr-be&gl=BE&ocid=pdpshare
+Vous pouvez également télécharger la dernière version de l'application via le Microsoft store ici: https://apps.microsoft.com/detail/9P5PSJTN8SWN?hl=fr-be&gl=BE&ocid=pdpshare
+ 
+ou 
 
-soit
-
-via le dépôt github ici: https://github.com/STENS66/Simple-Image-Converter/releases
-
-ou effectuer l'installation directement via Winstall ici: https://winstall.app/apps/GaetanSencie.SimpleImageConverter
+effectuer l'installation directement via Winstall ici: https://winstall.app/apps/GaetanSencie.SimpleImageConverter
 
 ## Contact
 
