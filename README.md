@@ -47,7 +47,7 @@ Pour convertir des images avec "**Simple Image Converter**" :
 - **Contrôle total** : L'utilisateur a un contrôle total sur ses images et informations, sans risque de fuite de données.
 - **Support amélioré** : Grâce au fichier de log détaillé, le diagnostic et la résolution des problèmes sont plus efficaces.
 
-## Installation
+## Installation (Windows 10/11 - 64 bits)
 
 1. Téléchargez le fichier exécutable de la dernière version ici: https://github.com/STENS66/Simple-Image-Converter/releases
 2. Double-cliquez sur le fichier téléchargé pour lancer l'installation.
