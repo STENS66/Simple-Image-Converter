@@ -49,6 +49,14 @@ Pour convertir des images avec "**Simple Image Converter**" :
 2. Double-cliquez sur le fichier téléchargé pour lancer l'installation.
 3. Suivez les instructions à l'écran pour compléter l'installation.
 
+Vous pouvez télécharger la dernière version de l'application soit dans le Microsoft store ici: https://apps.microsoft.com/detail/9P5PSJTN8SWN?hl=fr-be&gl=BE&ocid=pdpshare
+
+soit
+
+via le dépôt github ici: https://github.com/STENS66/Simple-Image-Converter/releases
+
+ou effectuer l'installation directement via Winstall ici: https://winstall.app/apps/GaetanSencie.SimpleImageConverter
+
 ## Contact
 
 Pour toute question ou assistance supplémentaire, vous pouvez me contacter à l'adresse email : app.sencie@gmail.com.
