@@ -1,11 +1,12 @@
 # Simple Image Converter - Version française 1.3
+**Disponible officiellement sur le Microsoft Store**
 
 # Copyright © Gaëtan Sencie 2025
 # Tous droits réservés.
 
 ## Description
 
-**"Simple Image Converter"** est une application simple et sécurisée qui permet de convertir vos fichiers images et documents rapidement et efficacement. Elle fonctionne uniquement en local sur l'ordinateur de l'utilisateur, garantissant ainsi une sécurité maximale et une confidentialité absolue de vos données.
+**"Simple Image Converter"** est une application simple et sécurisée qui permet de convertir vos fichiers images et documents rapidement et efficacement. Validée et publiée sur le **Microsoft Store**, elle fonctionne uniquement en local sur l'ordinateur de l'utilisateur, garantissant ainsi une sécurité maximale et une confidentialité absolue de vos données.
 
 ### Fonctionnalités
 
@@ -27,6 +28,11 @@
 
 ![Capture d'écran du jeu Python-Blackjack](https://github.com/STENS66/Simple-Image-Converter/blob/main/images/window.png?raw=true)
 
+### Compatibilité
+
+
+Application de bureau conçue pour Windows 10 et 11 (64 bits).
+
 ### Utilisation
 
 Pour convertir des images avec "**Simple Image Converter**" :
@@ -47,13 +53,10 @@ Pour convertir des images avec "**Simple Image Converter**" :
 - **Contrôle total** : L'utilisateur a un contrôle total sur ses images et informations, sans risque de fuite de données.
 - **Support amélioré** : Grâce au fichier de log détaillé, le diagnostic et la résolution des problèmes sont plus efficaces.
 
-## Installation (Windows 10/11 - 64 bits)
+## Téléchargement
 
-1. Téléchargez le fichier exécutable de la dernière version ici: https://github.com/STENS66/Simple-Image-Converter/releases
-2. Double-cliquez sur le fichier téléchargé pour lancer l'installation.
-3. Suivez les instructions à l'écran pour compléter l'installation.
-
-Vous pouvez également télécharger la dernière version de l'application via le Microsoft store ici: https://apps.microsoft.com/detail/9P5PSJTN8SWN?hl=fr-be&gl=BE&ocid=pdpshare
+- [Microsoft Store (version officielle validée)](https://apps.microsoft.com/detail/9P5PSJTN8SWN?hl=fr-be&gl=BE&ocid=pdpshare)  
+- [Releases GitHub (versions alternatives)](https://github.com/STENS66/Simple-Image-Converter/releases) 
  
 ou 
 
@@ -61,22 +64,18 @@ effectuer l'installation directement via Winstall ici: https://winstall.app/apps
 
 ## Contact
 
-Pour toute question ou assistance supplémentaire, vous pouvez me contacter à l'adresse email : app.sencie@gmail.com.
+- Email : app.sencie@gmail.com  
+- LinkedIn : [Gaëtan Sencie](https://www.linkedin.com/in/ga%C3%ABtan-sencie-applications-python)
+- GitHub : [STENS66](https://github.com/STENS66)
 
 Merci d'utiliser "Simple Image Converter" !
 
 ---
 
-### Soutien financier
+## Références & Mots-clés
 
-**Adresse publique TRX :** TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF
+Développé par **Gaëtan Sencie**, développeur Python.  
+**Simple Image Converter** est officiellement disponible sur le **Microsoft Store**, sur **GitHub**, et via **Winstall**, garantissant une diffusion fiable et validée.
 
-**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF)
+**Mots-clés** : conversion d’images, conversion PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, TIFF, SVG, XPS, OXPS, compression PDF, qualité d’image, application hors ligne, confidentialité, sécurité des données, Windows 10, Windows 11.
 
-**Adresse publique BTC :** bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j
-
-**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=0&address=bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j)
-
-**Adresse publique SOL :** E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD
-
-**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=501&address=E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD)
