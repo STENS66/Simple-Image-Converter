@@ -1,4 +1,4 @@
-# Simple Image Converter - English Version 1.4
+# Simple Image Converter - English Version 1.5
 **Available on the Microsoft Store (Windows) • Available on the Snap Store (Linux)**
 
 # Copyright © Gaëtan Sencie 2025
@@ -22,6 +22,7 @@ Desktop application designed for:
 ### Features
 
 - The user interface is user-friendly and easy to use, allowing any user to convert images effortlessly.
+- **Multilingual Support**: The application is available in 6 languages: English, French, German, Spanish, Italian, and Portuguese (BR).
 - Supports multiple output formats, including PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, and TIFF.
 - Also allows the conversion of .SVG files to PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, and TIFF formats.
 - The application does not support the conversion of PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, and TIFF files to .SVG format.
@@ -68,13 +69,13 @@ Thank you for using "Simple Image Converter"!
 
 Developed by **Gaëtan Sencie**, Python developer.
 
-**Simple-Text-Extractor** is officially available on the **Microsoft Store**, **GitHub** and the **Snap Store**, guaranteeing reliable and validated distribution.
+**Simple Image Converter** is officially available on the **Microsoft Store**, **GitHub** and the **Snap Store**, guaranteeing reliable and validated distribution.
 
-**Keywords**: Privacy, offline application, data security, image conversion, Linux, Ubuntu, Snap Store, Python.
+**Keywords**: Privacy, offline application, data security, image conversion, Linux, Ubuntu, Snap Store, Python, Multilingual.
 
 ---
 
-# Simple Image Converter - Version française 1.4
+# Simple Image Converter - Version française 1.5
 **Disponible sur le Microsoft Store (Windows) • Disponible sur le Snap Store (Linux)**
 
 # Copyright © Gaëtan Sencie 2025
@@ -98,6 +99,7 @@ Application de bureau conçue pour :
 ### Fonctionnalités
 
 - L'interface utilisateur est conviviale et facile à utiliser, permettant à tout utilisateur de convertir ses images sans effort.
+- **Support multilingue** : L'application est disponible en 6 langues : Français, Anglais, Allemand, Espagnol, Italien et Portugais (BR).
 - Prend en charge plusieurs formats de sortie, y compris PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
 - Permet également la conversion des fichiers .SVG vers les formats PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF.
 - L'application ne prend pas en charge la conversion des fichiers PDF, PNG, JPG, JPEG, WEBP, ICO, BMP, GIF, et TIFF vers le format .SVG.
@@ -146,4 +148,4 @@ Développé par **Gaëtan Sencie**, développeur Python.
 
 **Simple Image Extractor** est officiellement disponible sur le **Microsoft Store**, **GitHub** et le **Snap Store**, garantissant une diffusion fiable et validée.
 
-**Mots-clés** : Mots-clés : Confidentialité, application hors ligne, sécurité des données, conversion images, , Linux, Ubuntu, Snap Store, Python.
+**Mots-clés** : Mots-clés : Confidentialité, application hors ligne, sécurité des données, conversion images, , Linux, Ubuntu, Snap Store, Python, Multilingue.
