@@ -1,4 +1,4 @@
-# Simple Image Converter - English Version 1.5
+# Simple Image Converter - English Version 1.6
 **Available on the Microsoft Store (Windows) • Available on the Snap Store (Linux)**
 
 # Copyright © Gaëtan Sencie 2025
@@ -75,7 +75,7 @@ Developed by **Gaëtan Sencie**, Python developer.
 
 ---
 
-# Simple Image Converter - Version française 1.5
+# Simple Image Converter - Version française 1.6
 **Disponible sur le Microsoft Store (Windows) • Disponible sur le Snap Store (Linux)**
 
 # Copyright © Gaëtan Sencie 2025
